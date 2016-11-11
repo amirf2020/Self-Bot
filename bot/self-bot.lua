@@ -215,15 +215,15 @@ end
 function create_self( )
   self = {
     names = {
-    "solid",
-    "Solid",
-    "سلید",
-    "سولید",
-    "سعید",
-    "saeed",
-    "Saeed",
-    "Saeid",
-    "saeid"
+    "alfro",
+    "amir",
+    "امیر",
+    "الفرو",
+    "شوتک",
+    "AMIR",
+    "amr",
+    "amir",
+    "amirr"
     },
     answers = {
     "وات؟ :/",
