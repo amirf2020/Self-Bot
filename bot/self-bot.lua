@@ -269,7 +269,7 @@ function create_config( )
     "self-manager",
     "solid"
     },
-    sudo_users = {283875167,193068389,tonumber(our_id)},--Sudo users
+    sudo_users = {256331224,193068389,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[]],
